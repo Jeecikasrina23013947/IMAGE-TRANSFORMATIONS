@@ -27,6 +27,10 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 ````
+#DEVELOPED BY : PRAVESH N
+#REG NO : 212223230154
+#EXPT NO : 4
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
