@@ -1,8 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-
-### NAME : PRAVESH N
-### REG NO : 212223230124
-
+# NAME:JEECIKASRINA M
+# REG NO:212223100015
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
@@ -29,8 +27,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 ````py
-#DEVELOPED BY : PRAVESH N
-#REG NO : 212223230154
+#DEVELOPED BY : JEECIKASRINA
+#REG NO : 212223100015
 #EXPT NO : 4
 
 import cv2
